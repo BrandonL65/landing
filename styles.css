@@ -1,0 +1,133 @@
+.maincontainer
+{
+  background-color: #EEEEEE;
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  padding-left: 0px;
+  font-family: Montserrat;
+}
+#navigationBar
+{
+  position:fixed;
+  z-index:100;
+  width:100%;
+  text-align:right;
+  background-color:#F6E3E5;
+
+}
+#navigationBar a
+{
+  margin:2%;
+  display:inline-block;
+  text-decoration: none;
+  color:grey;
+}
+#navigationBar h3
+{
+  display:inline-block;
+  text-align:left;
+  margin-left:3%;
+  margin-right:40%;
+}
+.trombonePic
+{
+  width:3%;
+}
+#top
+{
+  padding: 0;
+  position: fixed;
+  background-color: #F6E4E5;
+  z-index: 2;
+  margin-left: 0;
+
+}
+#nav-bar
+{
+  width:100%;
+}
+.nav-item
+{
+  margin-right: 80px;
+  margin-top: 3%;
+  margin-left: 80px;;
+  margin-bottom: 3%;
+  white-space: nowrap;
+
+
+}
+#header-img
+{
+  width: 6%;
+  margin-left: 3%;
+  margin-right: 6%;
+
+}
+
+.navbar-brand
+{
+  font-size: 2rem;
+  text-align: left;
+}
+
+.container2
+{
+  padding:8%;
+}
+.search
+{
+  margin-top: 2%;
+}
+#submit
+{
+  margin-top: 1%;
+}
+#email
+{
+  width: 30%;
+}
+.btn1
+{
+  margin-top: 3%;
+}
+
+.container3
+{
+  width: 70%;
+}
+.iconcolumn
+{
+  color: orange;
+  text-align: right;
+  padding-right: 6%;
+  margin-bottom: 3%;
+}
+.wordcolumn
+{
+  text-align: left;
+  margin-bottom: 3%;
+}
+
+
+#cards
+{
+  padding-top: 11%;
+  padding-left: 11%;
+  padding-right: 11%;
+  padding-bottom: 11%;
+  font-size: 1.1rem;
+}
+.deck1
+{
+  height: 130%;
+}
+
+.container4
+{
+  background-color: #DDDDDD;
+  text-align: right;
+  width: 70%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
